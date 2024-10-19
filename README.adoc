@@ -153,6 +153,12 @@ https://www.linkedin.com/company/bjit/[LinkedIn]
 |IOT, Blockchain, Artificial Intelligence, React, Javascript, Python, Node, Django
 |https://www.circlefintech.com/[Website]
 
+|CodersTrust
+|House-82, Road-19/A, Block-E, Banani, Dhaka-1213, Bangladesh
+|Wordpress, PHP, Javascript/Typescript, Python, Scala, Kubernetes, Lambda, AWS
+|https://coderstrust.global/[Website]
+https://www.facebook.com/Coderstrust[Facebook]
+
 |Craftsmen (EU)
 |House 272 (1st Floor), Lane 3 (Eastern Road), DOHS Baridhara, Dhaka 1206, Bangladesh.
 |JavaScript/TypeScript, Node.js, Python, React/Vue.js, Redux, React Native, AWS, Serverless Framework, AI/Machine Learning, GCP, Azure, IBM Watson
@@ -180,9 +186,9 @@ https://www.linkedin.com/company/chumbok-it[LinkedIn]
 https://github.com/ChumbokIT[Github]
 
 |COdesign
-|Level-8 Plot, Rangs Paramount, 11 Rd No 17, Dhaka 1213
-|WordPress, HTML, CSS, React, PHP, MySQL
-|https://codesign.com.bd/[Website]
+|Level-8 Plot, Rangs Paramount, House 11, Rd No 17, Banani C/A, Dhaka 1213
+|Nuxt, Django Rest Framework
+|https://co.design/[Website]
 
 |Codemen Solutions
 |90/B, Uttara bank building (4th floor), Malibagh Chowdhury Para, 1219 DIT Road, Dhaka 1219
@@ -407,6 +413,11 @@ https://www.linkedin.com/company/dhrubokinfotech/[LinkedIn]
 |C#, .NET
 |https://www.infocratsolutions.com/[Website]
 
+|Inovace Technologies
+|4th Floor,  18 Kazi Nazrul Islam Ave, Dhaka 1205
+|PHP, Laravel, MySQL, Java, MQTT, Python, Spring boot, Kafka, JavaScript, Bootstrap, PostgreSQL, Angular, Vue, Wordpress
+|https://inovacetech.com/[Website]
+
 |Instalogic
 |3rd Floor, House-483, Road-08, Baridhara DOHS, Dhaka-1206
 |PHP, Laravel, MySQL, Java, Python, Django, JavaScript, React, Drupal, Angular, Vue, Wordpress
@@ -492,6 +503,11 @@ https://www.linkedin.com/company/dhrubokinfotech/[LinkedIn]
 |28/1 Eskaton Garden, Dhaka, Bangladesh
 |.Net, Java, PHP, AngularJS, React
 |http://kaz.com.bd/[Website]
+
+|Kite Games Studio
+|House No. 283, Road No. 19/C, Mohakhali DOHS, Dhaka, Bangladesh
+|Swift, React, Kotline, PyTorch
+|https://www.kitegamesstudio.com[Website] https://www.linkedin.com/company/kite-games-studio/mycompany[LinkedIn]
 
 |Kona Software Lab
 |Police Plaza Concord, Tower-A, Plot-2, Road-144, Dhaka
@@ -629,6 +645,11 @@ _UK Office:_ 71-75 Shelton Street, Covent Garden, London, England, WC2H 9JQ
 | House No. 69 (2nd floor), Road No. 08, Block-D, Niketon, Gulshan-1, Dhaka-1212.
 | PHP(Laravel, CakePHP), Javascript(jQuery, Vue, VueX), MySQL, MongoDB, Docker
 | https://www.nogorsolutions.com[Website]
+
+|Nova Labs LTD
+| Level 8B, House 10 (Fairview), Road-1, Block-B, Niketon.
+| Unity (Android, IOS), Unreal (PC, Android, IOS), AR (Meta Spark)
+| https://novalabs.gg/[Website] https://www.linkedin.com/company/novalabsgg[LinkedIn] 
 
 |Nybbles System Limited (NybSys)
 |House: 03, Road: 08, Shahida Khan Tower (1st & 2nd Floor), Section-6, Mirpur, Dhaka 1216
